@@ -1,0 +1,9 @@
+Entry 1, May 24, 2025
+Concept, glove or gloves with gyroscope, accelerometer, flex sensors, and maybe more
+gloves will be the control input to a raspberry pi that will display information onto a small OLED screen and use a prism to reflect that into the eye
+the oled will be able to display text and low res images, the hope is to have an ai who can provide short answers and maybe some basic games like pong
+potential add ons, ai assistant, camera, microphone, speakers
+
+how i will acheieve this,
+for the gloves i will use an MPU6050 module for the gyroscope and accelerometer, 4.5 inch flex sensors for finger bend tracking, likely an ESP32 to connect it to a seperate unit where all the processing will happen
+for the glasses i will use a .96 inch OLED display to display small text and use a prism setup(or something similar idk yet) to reflect the text into the glasses lens without obstructing the view
