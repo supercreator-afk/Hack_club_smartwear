@@ -13,4 +13,4 @@ for the glasses i will use a .96 inch OLED display to display small text and use
 Entry 2, May 26, 2025
 Ive begun working on a simple light to go on the gloves, its a ring of 16 RGBLEDs and the brightness is controlled by a potentiometer, might soon be changed to gesture control. 
 schematic for the basic light will be found in /Glove_light_1
-code will be 
+code will be found in /Glove_light_1_code
